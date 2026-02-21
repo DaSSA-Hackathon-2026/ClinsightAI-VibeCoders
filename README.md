@@ -212,14 +212,12 @@ Current approach chosen for:
 - Silhouette may not perfectly reflect business usefulness.
 - Confidence depends on sample size and class balance.
 
-### Minimum 5 Test Cases (recommended for demo)
+### Test Cases 
 1. Strong wait-time complaint -> should map to scheduling/wait theme, high severity, negative impact
 2. Positive doctor-care review -> positive/mild severity, low risk
 3. Billing transparency complaint -> billing theme + roadmap KPI
 4. Mixed review (praise + complaint) -> multiple chunk themes
 5. Extreme 1-star complaint -> stronger influence in extreme classifier
-
-Use these in demo by showing chunk/theme mapping and final JSON outcomes.
 
 ## 6) Business Actionability
 The output is decision-ready:
@@ -228,8 +226,6 @@ The output is decision-ready:
 - Suggested KPI for each recommendation
 - Expected rating lift (directional)
 - Supporting evidence snippets
-
-This supports immediate ops review meetings and intervention planning.
 
 ## 7) Visualization & UX
 Streamlit app (`streamlit_app.py`) provides:
@@ -242,16 +238,6 @@ Streamlit app (`streamlit_app.py`) provides:
   - Scope distribution
 - Roadmap table and execution mix
 - Full JSON viewer in diagnostics tab
-
-## 8) Demo & Communication Plan (5-7 min)
-Recommended sequence:
-1. Problem + user + business cost
-2. Pipeline flow walkthrough
-3. Theme and impact outputs
-4. Confidence/metrics and limitations
-5. Roadmap and "what can be done tomorrow"
-
-Keep explanations tied to concrete output fields in JSON.
 
 ## Output Schema
 The report JSON includes:
