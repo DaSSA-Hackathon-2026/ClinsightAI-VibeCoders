@@ -1,0 +1,2 @@
+"""ClinsightAI modular analytics package."""
+

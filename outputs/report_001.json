@@ -1,0 +1,263 @@
+{
+  "clinic_summary": {
+    "overall_rating_mean": 3.56,
+    "review_count": 976,
+    "primary_risk_themes": [
+      "patients / care / money / time",
+      "emergency / rude / come / room",
+      "experience / worst / worst experience / bad"
+    ]
+  },
+  "theme_analysis": [
+    {
+      "theme": "patients / care / money / time",
+      "frequency_percentage": 22.01,
+      "review_coverage_percentage": 23.87,
+      "rating_impact": -0.622,
+      "severity_score": 0.426,
+      "risk_score": 0.885,
+      "issue_scope": "recurring",
+      "impact_confidence": 0.935,
+      "cluster_confidence": 0.494,
+      "confidence": 0.781,
+      "evidence_samples": [
+        "I have visited to take my second dose and Process was really smooth.",
+        "Shanti tooks good care and provide all details before vaccination.",
+        "That person was slightly clueless and offered only one package."
+      ]
+    },
+    {
+      "theme": "emergency / rude / come / room",
+      "frequency_percentage": 3.99,
+      "review_coverage_percentage": 5.12,
+      "rating_impact": -0.403,
+      "severity_score": 0.772,
+      "risk_score": 0.462,
+      "issue_scope": "recurring",
+      "impact_confidence": 0.904,
+      "cluster_confidence": 0.514,
+      "confidence": 0.767,
+      "evidence_samples": [
+        "The staff nurses are down to earth.",
+        "The place can get quite crowded so if you wish to get done with all formalities within 1.5-2 hours, it is better to reach there before 830am when the billing counter opens.",
+        "Please display few boards in the entrance of the hospital and also in the emergency department"
+      ]
+    },
+    {
+      "theme": "experience / worst / worst experience / bad",
+      "frequency_percentage": 4.94,
+      "review_coverage_percentage": 6.05,
+      "rating_impact": -0.382,
+      "severity_score": 0.58,
+      "risk_score": 0.413,
+      "issue_scope": "recurring",
+      "impact_confidence": 0.909,
+      "cluster_confidence": 0.52,
+      "confidence": 0.773,
+      "evidence_samples": [
+        "Had a really bad experience during discharge.",
+        "I called them to book an appointment, i requested for a senior doctor and seeked their years of experience, they don't want to share it, transparency is not there.",
+        "when i called Appolo they give all the detail's,experience and i feel comfortable while choosing Doctor."
+      ]
+    },
+    {
+      "theme": "care / lab / days / cost",
+      "frequency_percentage": 6.14,
+      "review_coverage_percentage": 7.79,
+      "rating_impact": -0.384,
+      "severity_score": 0.354,
+      "risk_score": 0.372,
+      "issue_scope": "recurring",
+      "impact_confidence": 0.92,
+      "cluster_confidence": 0.513,
+      "confidence": 0.777,
+      "evidence_samples": [
+        "They need to be sensitive and more transparent towards the patient and his/her family.",
+        "Fortis,pls have transperency and it is right of a patient.",
+        "Say hello with folded hands.and Take the patient sitting in the wheel chair ..."
+      ]
+    },
+    {
+      "theme": "clean / maintained / worst / worst hospital",
+      "frequency_percentage": 5.9,
+      "review_coverage_percentage": 7.38,
+      "rating_impact": -0.353,
+      "severity_score": 0.323,
+      "risk_score": 0.342,
+      "issue_scope": "recurring",
+      "impact_confidence": 0.898,
+      "cluster_confidence": 0.512,
+      "confidence": 0.763,
+      "evidence_samples": [
+        "Good and clean hospital.",
+        "But once i got to the hospital, I found a better and more economical one and decided to go ahead",
+        "Good and clean hospital."
+      ]
+    },
+    {
+      "theme": "care / experienced / took / amazing",
+      "frequency_percentage": 5.98,
+      "review_coverage_percentage": 7.48,
+      "rating_impact": -0.217,
+      "severity_score": 0.222,
+      "risk_score": 0.256,
+      "issue_scope": "recurring",
+      "impact_confidence": 0.85,
+      "cluster_confidence": 0.502,
+      "confidence": 0.728,
+      "evidence_samples": [
+        "The medical facilities are all great with good in-patient post operative care by doctors, nurses.",
+        "The medical facilities are all great with good in-patient post operative care by doctors, nurses.",
+        "We felt like staying in our own home."
+      ]
+    },
+    {
+      "theme": "good / overall / management / overall good",
+      "frequency_percentage": 3.43,
+      "review_coverage_percentage": 4.41,
+      "rating_impact": -0.24,
+      "severity_score": 0.34,
+      "risk_score": 0.237,
+      "issue_scope": "isolated",
+      "impact_confidence": 0.872,
+      "cluster_confidence": 0.518,
+      "confidence": 0.748,
+      "evidence_samples": [
+        "Recently underwent a surgery for my left shoulder, the doctors are extremely good, but the management needs to be more patient oriented than money minded.",
+        "The patient has been taken good care overall right from the consultation until the discharge, everything is seamless and hassle free.",
+        "Overall, it was a good experience throughout."
+      ]
+    },
+    {
+      "theme": "went / father / went father / treatment",
+      "frequency_percentage": 2.07,
+      "review_coverage_percentage": 2.66,
+      "rating_impact": -0.112,
+      "severity_score": 0.59,
+      "risk_score": 0.232,
+      "issue_scope": "isolated",
+      "impact_confidence": 0.434,
+      "cluster_confidence": 0.551,
+      "confidence": 0.475,
+      "evidence_samples": [
+        "I went for my father.",
+        "I was having menopause related issues and went to see a gynecologist.",
+        "We went with the insurance and the processing time was quick."
+      ]
+    },
+    {
+      "theme": "team / good / support / thank",
+      "frequency_percentage": 5.18,
+      "review_coverage_percentage": 6.25,
+      "rating_impact": -0.216,
+      "severity_score": 0.139,
+      "risk_score": 0.205,
+      "issue_scope": "recurring",
+      "impact_confidence": 0.88,
+      "cluster_confidence": 0.508,
+      "confidence": 0.749,
+      "evidence_samples": [
+        "There is great team of doctors and good OT facility.",
+        "The housekeeping staff is also good but they can respond to calls from the room a little faster.",
+        "There is great team of doctors and good OT facility."
+      ]
+    },
+    {
+      "theme": "treatment / good / surgery / really",
+      "frequency_percentage": 6.94,
+      "review_coverage_percentage": 8.61,
+      "rating_impact": -0.096,
+      "severity_score": 0.072,
+      "risk_score": 0.181,
+      "issue_scope": "recurring",
+      "impact_confidence": 0.74,
+      "cluster_confidence": 0.507,
+      "confidence": 0.659,
+      "evidence_samples": [
+        "My primary concern arose from the insistence on conducting multiple tests, which appeared unrelated to my condition, before initiating any treatment.",
+        "I really liked the service there!",
+        "I really liked the service there!"
+      ]
+    }
+  ],
+  "improvement_roadmap": [
+    {
+      "priority": 1,
+      "theme": "patients / care / money / time",
+      "recommendation": "Investigate root cause with cross-functional ops review.",
+      "workstream": "high_effort",
+      "suggested_kpi": "Theme-specific complaint rate and resolution SLA",
+      "expected_rating_lift": "+0.77",
+      "confidence": 0.781,
+      "effort": "high"
+    },
+    {
+      "priority": 2,
+      "theme": "emergency / rude / come / room",
+      "recommendation": "Run service-behavior training and front-desk SLA monitoring.",
+      "workstream": "quick_win",
+      "suggested_kpi": "Front-desk satisfaction score, complaint resolution time",
+      "expected_rating_lift": "+0.64",
+      "confidence": 0.767,
+      "effort": "low"
+    },
+    {
+      "priority": 3,
+      "theme": "experience / worst / worst experience / bad",
+      "recommendation": "Investigate root cause with cross-functional ops review.",
+      "workstream": "high_effort",
+      "suggested_kpi": "Theme-specific complaint rate and resolution SLA",
+      "expected_rating_lift": "+0.63",
+      "confidence": 0.773,
+      "effort": "high"
+    },
+    {
+      "priority": 4,
+      "theme": "care / lab / days / cost",
+      "recommendation": "Improve billing transparency with pre-visit estimate communication.",
+      "workstream": "quick_win",
+      "suggested_kpi": "Billing-related complaints, estimate accuracy",
+      "expected_rating_lift": "+0.63",
+      "confidence": 0.777,
+      "effort": "medium"
+    },
+    {
+      "priority": 5,
+      "theme": "clean / maintained / worst / worst hospital",
+      "recommendation": "Increase housekeeping audit frequency and ward cleanliness checklist coverage.",
+      "workstream": "quick_win",
+      "suggested_kpi": "Cleanliness audit score, housekeeping response SLA",
+      "expected_rating_lift": "+0.61",
+      "confidence": 0.763,
+      "effort": "medium"
+    },
+    {
+      "priority": 6,
+      "theme": "good / overall / management / overall good",
+      "recommendation": "Investigate root cause with cross-functional ops review.",
+      "workstream": "high_effort",
+      "suggested_kpi": "Theme-specific complaint rate and resolution SLA",
+      "expected_rating_lift": "+0.54",
+      "confidence": 0.748,
+      "effort": "high"
+    },
+    {
+      "priority": 7,
+      "theme": "care / experienced / took / amazing",
+      "recommendation": "Investigate root cause with cross-functional ops review.",
+      "workstream": "high_effort",
+      "suggested_kpi": "Theme-specific complaint rate and resolution SLA",
+      "expected_rating_lift": "+0.53",
+      "confidence": 0.728,
+      "effort": "high"
+    }
+  ],
+  "diagnostics": {
+    "n_reviews": 976,
+    "n_chunks": 1254,
+    "n_clusters": 18,
+    "cv_mae": 0.8242,
+    "extreme_auc": 0.8944,
+    "global_cluster_confidence": 0.5118
+  }
+}
